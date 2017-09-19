@@ -10,9 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
 
-<<<<<<< HEAD
-        System.out.println("A NullPointerException is a drag xavi rama test...");
->>>>>>> refs/heads/rama_test
+        System.out.println("A NullPointerException is a drag xavi rama test ...");
+        
         Object myObject = null;
         /**
          * Checker prevents this from compiling...
