@@ -11,6 +11,7 @@ public class App
         System.out.println( "Hello World!" );
 
         System.out.println("A NullPointerException is a drag xavi rama test ...");
+        
         Object myObject = null;
         /**
          * Checker prevents this from compiling...
